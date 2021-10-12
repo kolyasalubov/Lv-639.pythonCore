@@ -3,7 +3,7 @@ Zen of Python!!!
 1.
 2.
 3.
-4.Taras Lepa
+4.
 5.
 6.Sparse is better than dense.
 7.
