@@ -29,3 +29,4 @@
 25. Sparse is better than dense.
 26. 
 27. Special cases aren't special enough to break the rules.
+28. Although practicality beats purity.
