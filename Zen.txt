@@ -1,4 +1,4 @@
-▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+﻿▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
  PLEASE LIKE, Zen of Python!!!
 ▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
@@ -23,7 +23,7 @@
 19.
 20.
 21.
-22.
+22. Simple is better than complex.
 23.
 24.
 25. Sparse is better than dense.
