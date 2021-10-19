@@ -1,4 +1,4 @@
-﻿▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+﻿﻿▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
  PLEASE LIKE, Zen of Python!!!
 ▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
@@ -21,12 +21,13 @@
 17.
 18.
 19. Namespaces are one honking great idea -- let's do more of those!
-20.
+20. Beautiful is better than ugly.
 21.
 22. Simple is better than complex.
-23.
+23. Complex is better than complicated.
 24.
 25. Sparse is better than dense.
-26. 
+26. In the face of ambiguity, refuse the temptation to guess.
 27. Special cases aren't special enough to break the rules.
+28. Although practicality beats purity.
 
