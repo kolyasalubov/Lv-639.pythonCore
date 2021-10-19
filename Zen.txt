@@ -24,7 +24,7 @@
 20. Beautiful is better than ugly.
 21.
 22. Simple is better than complex.
-23.
+23. Complex is better than complicated.
 24.
 25. Sparse is better than dense.
 26. In the face of ambiguity, refuse the temptation to guess.
