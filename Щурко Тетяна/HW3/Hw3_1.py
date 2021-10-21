@@ -11,3 +11,6 @@ print(f"Never is {philosofy_of_python.lower().count('never')}")
 print(f"Is is {philosofy_of_python.lower().count('is')}")
 print(f"Upper text is {philosofy_of_python.upper()}")
 print(f"Text with & is {philosofy_of_python.replace('i','&')}")
+
+
+
