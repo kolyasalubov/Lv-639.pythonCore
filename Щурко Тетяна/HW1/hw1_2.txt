@@ -1,0 +1,7 @@
+a=int(input("Enter your a = "))
+b=int(input("Enter your b = "))
+print(f"a+b={a+b}")
+print(f"a-b={a-b}")
+print(f"a*b={a*b}")
+print(f"a/b={a/b}")
+print(f"a**b={a**b}")
