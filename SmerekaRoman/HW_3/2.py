@@ -1,5 +1,6 @@
 number = int(input("Enter the number:"))
 
+
 reversed_number = str(number)
 print("Reversed number is:", reversed_number[::-1])
 
