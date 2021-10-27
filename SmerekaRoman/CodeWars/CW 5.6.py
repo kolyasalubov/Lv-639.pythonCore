@@ -1,5 +1,6 @@
-def greet(name):
-    if name == "Johnny":
-        return("Hello, my love!")
+def correct_tail(body, tail):
+    sub = body[len(body)-len(tail)]
+    if sub == tail:
+        return True
     else:
-        return "Hello, {0}!".format(name)
+        return False
