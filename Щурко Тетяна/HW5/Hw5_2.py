@@ -20,6 +20,8 @@ while (True):
         password = input("Enter your password = ")
         if login in users and users[login][0] == password:
             if users[login][1] == 0:
+                users[login][1] += 1
+                users.update({login: [password, users[login][1]]})
                 print(f"Congratulation. It`s your first login, {login}")
             elif users[login][1] > 0:
                 users[login][1]+=1
