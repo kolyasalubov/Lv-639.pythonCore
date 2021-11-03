@@ -1,5 +1,5 @@
 from math import pi
-squareRectangle = lambda length,width: 2*(length+width)
+squareRectangle = lambda length,width: length*width
 squareTriangle = lambda height,base: 0.5*(height*base)
 squareCircle = lambda radius: pi*radius**2
 case=int(input("1. Rectangle. \n2. Triangle. \n3. Circle. \nChoose your figure = "))
