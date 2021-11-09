@@ -13,13 +13,12 @@ class Rectangle(Polygon):
     """Initialisation rectangle"""
     def __init__(self):
         Polygon.__init__(self,2)
-        self.sides=[0 for i in range(2)]
 
-    def findSquare(self):
+    def find_square(self):
         a,b = self.sides[0], self.sides[1]
         print(f"Square of rectangle is {2*a*b}")
 
 rectangle_1=Rectangle()
 rectangle_1.input_sides()
 rectangle_1.display_sides()
-rectangle_1.findSquare()
+rectangle_1.find_square()
