@@ -1,7 +1,0 @@
-number_1=int(input("Enter your a = "))
-number_2=int(input("Enter your b = "))
-print(f"a+b={number_1 + number_2}")
-print(f"a-b={number_1 - number_2}")
-print(f"a*b={number_1 * number_2}")
-print(f"a/b={number_1 / number_2}")
-print(f"a**b={number_1 ** number_2}")
